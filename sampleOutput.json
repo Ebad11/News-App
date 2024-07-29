@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "\"Hes Got Class. Its Just That\": Rohit Sharma On R Ashwins World Cup Chances | Cricket News - NDTV Sports",
+            "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+            "url": "https://www.bbc.com/news/world-us-canada-39324587",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+            "publishedAt": "2023-09-27T03:58:00Z",
+            "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "Asian Games: Yuvraj Singh's record broken as Nepal create history against Mongolia - Times of India",
+            "description": "Asian Games 2023 News: Nepal cricket team achieved remarkable feats against Mongolia in the Asian Games T20I tournament, showcasing dominance and making a mockery of opposit",
+            "url": "https://timesofindia.indiatimes.com/asian-games-yuvraj-singhs-record-broken-as-nepal-create-history-against-mongolia/articleshow/103976529.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-103976988,width-1070,height-580,imgsize-45332,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-09-27T03:57:00Z",
+            "content": "Asian Games: Historic gold in equestrian on Day 3\r\nhangzhou-asian-games-historic-gold-in-equestrian-on-day-3"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "NASA's Hubble Telescope Captures Breathtaking Sombrero Galaxy Over 28 Million Light-Years Away - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-09-27T02:45:14Z",
+            "content": null
+        }
+    ]
+}
